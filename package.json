@@ -1,0 +1,19 @@
+{
+  "name": "foodtruck",
+  "version": "0.0.1",
+  "description": "foodtruck",
+  "main": "index.js",
+  "scripts": {
+    "start": "backpack"
+  },
+  "author": "Jojo",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-stage-3": "^6.24.1",
+    "backpack-core": "^0.7.0",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "volleyball": "^1.5.1"
+  }
+}
